@@ -35,9 +35,11 @@ Uygulamanın 5 farklı sayfası var:
         * ***Kaynak***, tıklandığında kullanıcıyı Yumurtanın kaynağına yönlendirir.
         * ***Beğen***, tıklandığında Yumurtayı *beğenilen yumurtalar listesine* kaydeder.
         * ***İndir***, tıklandığında Yumurtayı indirilenler klasörüne kaydeder.
+    <video width="480" height="500" controls>
 
+  <source src="https://i.imgur.com/1as1SOq.mp4" type="video/mp4">
+</video>
 
-<iframe src="https://giphy.com/embed/LxqsVUCbj6hHV0HxPS" width="400" height="600" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>       
         
 ---
 - ### Arama:
