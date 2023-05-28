@@ -35,13 +35,11 @@ Uygulamanın 5 farklı sayfası var:
         * ***Kaynak***, tıklandığında kullanıcıyı Yumurtanın kaynağına yönlendirir.
         * ***Beğen***, tıklandığında Yumurtayı *beğenilen yumurtalar listesine* kaydeder.
         * ***İndir***, tıklandığında Yumurtayı indirilenler klasörüne kaydeder.
-    <video width="480" height="500" controls>
-
-  <source src="https://i.imgur.com/1as1SOq.mp4" type="video/mp4">
-</video>
-
+        <p align="center">
+        <img src="https://i.hizliresim.com/17j7xh0.gif" width=350>
+        </p>
         
----
+    ---
 - ### Arama:
     * [Google Custom Search Json Api](https://developers.google.com/custom-search/v1/overview?hl=tr) kullanarak *Arama çubuğuna* yazılan sorguyla ilgili olan resimleri çekip ekranda gösterir.
     * Çekilen her resim ***Yumurta olarak muamele görür.***
