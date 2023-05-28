@@ -36,11 +36,10 @@ Uygulamanın 5 farklı sayfası var:
         * ***Beğen***, tıklandığında Yumurtayı *beğenilen yumurtalar listesine* kaydeder.
         * ***İndir***, tıklandığında Yumurtayı indirilenler klasörüne kaydeder.
 
-        <p align="center">
-        <img src="https://i.ibb.co/DQgb3CV/3.gif" width=350>
-        </p>
+
+<iframe src="https://giphy.com/embed/LxqsVUCbj6hHV0HxPS" width="400" height="600" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>       
         
-    ---
+---
 - ### Arama:
     * [Google Custom Search Json Api](https://developers.google.com/custom-search/v1/overview?hl=tr) kullanarak *Arama çubuğuna* yazılan sorguyla ilgili olan resimleri çekip ekranda gösterir.
     * Çekilen her resim ***Yumurta olarak muamele görür.***
